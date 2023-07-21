@@ -5,7 +5,6 @@ from src.models import FreeEnergyPerturbation, AdvancedSampler, ErrorEstimator, 
 import argparse
 
 
-
 def main(args):
     mol1 = Molecule(args.smiles[0])
     mol2 = Molecule(args.smiles[1])
