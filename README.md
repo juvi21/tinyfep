@@ -1,10 +1,7 @@
 # tinyfep
 
-tinyfep aims to be an simplified abstracted  and short version of the FEB+ method for molecular simulations. Some of the Algorithms are also just simplifications/approximations of the orignal ones but roughly give the core functionality. For now it's main purpose is to be viewed as an educational repo, for those who want to gather a better intuition about how this simumlations work.
-Also Tinyrep will be always under 400 lines of core code.
-
-# DISCLAIMER
-I'm not a chemist so take everything with a grain of salt. 
+`tinyfep` aims to be a simplified and abstracted version of the FEP+ method for molecular simulations. Some algorithms are simplifications or approximations of the original ones, yet they provide a glimpse into the core functionality. For now, it's primary purpose is educational, catering to those eager to gain an intuition about how these simulations work. Also, `tinyfep` will always stay under 400 lines of core code. 
+**DISCLAIMER:** I'm not a chemist so take everything with a grain of salt. 
 
 ## 🌟 Features:
 
@@ -26,11 +23,16 @@ I'm not a chemist so take everything with a grain of salt.
 - The energy calculations, though enlightening, are a far cry from real-world complexities.
 - The advanced sampling techniques are more illustrative than functional.
 
-
 ## 🚀 Future Plans:
 
-
 - **Integration with Real MD Engines:** Incorporating tools like GROMACS or CHARMM.
-- **Advanced Visualization:** Introducing 3D visualizations and interactive features.
 - **Support for More Complex SMILES:** Handling aromaticity, ring closures, and branched structures.
 - **Enhanced Error Estimations:** Adopting more sophisticated techniques for error calculations.
+- **CSV Parsing:** 'Cause sometimes you just want your molecular data in neat rows and columns.
+
+## 🤝 Contributing:
+You are always welcomed to make 'tinyrep' better or point out mistakes :)
+
+
+## 📜 License:
+This project is licensed under the MIT License.
