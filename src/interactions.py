@@ -1,4 +1,3 @@
-
 def lennard_jones_potential(molecule1, molecule2):
         
     r = sum((x2 - x1)**2 for x1, x2 in zip(molecule1.centroid(), molecule2.centroid())) ** 0.5
