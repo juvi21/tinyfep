@@ -1,7 +1,7 @@
 # tinyfep
 
 `tinyfep` aims to be a simplified and abstracted version of the FEP+ method for molecular simulations. Some algorithms are simplifications or approximations of the original ones, yet they provide a glimpse into the core functionality. For now, it's primary purpose is educational, catering to those eager to gain an intuition about how these simulations work. Also, `tinyfep` will always stay under 400 lines of core code. 
-**DISCLAIMER:**I'm not a chemist so take everything with a grain of salt. 
+**DISCLAIMER:** I'm not a chemist so take everything with a grain of salt. 
 
 ## 🌟 Features:
 
