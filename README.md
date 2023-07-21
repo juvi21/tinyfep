@@ -28,3 +28,11 @@
 - **Integration with Real MD Engines:** Incorporating tools like GROMACS or CHARMM.
 - **Support for More Complex SMILES:** Handling aromaticity, ring closures, and branched structures.
 - **Enhanced Error Estimations:** Adopting more sophisticated techniques for error calculations.
+- **CSV Parsing:** 'Cause sometimes you just want your molecular data in neat rows and columns.
+
+## 🤝 Contributing:
+You are always welcomed to make 'tinyrep' better or point out mistakes :)
+
+
+## 📜 License:
+This project is licensed under the MIT License.
