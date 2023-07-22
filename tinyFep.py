@@ -1,10 +1,11 @@
 #!/user/bin/python3
 
+import argparse
+
 from src.molecule import Molecule
 
 from src.models import FreeEnergyPerturbation, AdvancedSampler, ErrorEstimator, PressureEffect
 
-import argparse
 
 
 def main(args):
