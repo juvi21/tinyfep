@@ -1,4 +1,4 @@
-H_BOND_ENERGY = -100  # Favorable energy for a hydrogen bond 
+H_BOND_ENERGY = -100  # Favorable energy for a hydrogen bond
 THRESHOLD_DISTANCE = 2.0  # Maximum distance for hydrogen bond formation
 K = 8.9875e9  # Coulomb's constant in N.m^2.C^-2
 Q_H = 1e-19  # Charge of 'H' atom i
