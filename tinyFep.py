@@ -1,3 +1,5 @@
+#!/user/bin/python3
+
 from src.molecule import Molecule
 
 from src.models import FreeEnergyPerturbation, AdvancedSampler, ErrorEstimator, PressureEffect
