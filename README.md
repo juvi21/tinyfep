@@ -6,7 +6,7 @@
 
 ## 🌟 Features:
 
-- **SMILES String Parsing:** Convert basic SMILES strings into recognizable molecular structures. (TODO: not every Element is currently supported)
+- **SMILES String Parsing:** Convert basic SMILES strings into recognizable molecular structures. TODO: not every Element is currently supported
 - **Mock Molecular Dynamics:** Simulate molecular behavior using abstracted energy calculations.
 - **Energy Functions:** Simplified calculations for Lennard-Jones, hydrogen bonds, and ionic interactions.
 - **Advanced Sampling Techniques:** Get a taste of methods like Replica Exchange and Metadynamics.
