@@ -1,6 +1,5 @@
 import math
 import statistics
-
 from src.interactions import advanced_potential_energy
 from src.molecule import Molecule
 
